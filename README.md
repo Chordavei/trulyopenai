@@ -1,2 +1,1 @@
-# trulyopenai
-A repository of GPT overrides. Mostly tested using ChatGPT 3.5 (as of May 2024)
+# <img src="https://i.ibb.co/QDDq96W/Truly-Open-AI-READMEmd.png">
